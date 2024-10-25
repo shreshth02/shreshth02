@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreshth02
-- 👀 I’m interested in Full Stack Development and a bit in Android App Development.
-- 🌱 My Current Tech Stack includes Java, Spring, SQL, ReactJS, MySQL, HTML, CSS, JavaScript and other languages to learn from basic :)
+- 👀 I’m interested in Full Stack Development(mainly BackEnd) and a bit in Android App Development.
+- 🌱 My Current Tech Stack includes Back-End Technologies like Java, Spring, SQL, ReactJS, MySQL and some part of Front-End Technologies like HTML, CSS, JavaScript.
 - 💞️ I’m looking to collaborate on the above mentioned topics.
 - 📫 Mail me on shreshth.jaiswal2001@gmail.com to reach me.
 
